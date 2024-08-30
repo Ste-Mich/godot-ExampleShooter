@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://coig1kc0n3h52"]
+
+[ext_resource type="Script" path="res://characters/CharacterMover.cs" id="1_b2sdf"]
+
+[node name="CharacterMover" type="Node3D"]
+script = ExtResource("1_b2sdf")
